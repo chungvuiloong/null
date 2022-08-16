@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/null.svg)](https://badge.fury.io/js/null)
 
+[![npm install](https://badge.fury.io/js/null.svg)](https://badge.fury.io/js/null)
+
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml)
 
