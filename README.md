@@ -1,19 +1,10 @@
 # null_or_empty
 
 [![npm version](https://badge.fury.io/js/null.svg)](https://badge.fury.io/js/null)
-(https://badgen.net/github/release/babel/babel)
-https://badgen.net/github/release/babel/babel
 
-https://badgen.net/badge/:subject/:status/:color?icon=github
+[![Node CI](https://github.com/jirimicvl/null/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/jirimicvl/null/actions/workflows/main.yml)
 
 
-[![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml)
-
-[![Node CI](https://github.com/jirimicvl/null/actions/workflows/main.yml/badge.svg?branch=master&event=create)](https://github.com/jirimicvl/null/actions/workflows/main.yml)
-
-[![Node CI](https://github.com/jirimicvl/null/actions/workflows/main.yml/badge.svg?branch=master&event=delete)](https://github.com/jirimicvl/null/actions/workflows/main.yml)
-
-[![Node CI](https://github.com/jirimicvl/null/actions/workflows/main.yml/badge.svg?branch=master&event=branch_protection_rule)](https://github.com/jirimicvl/null/actions/workflows/main.yml)
 
 A Node.js package that checks, if a given string is null or empty.
 
