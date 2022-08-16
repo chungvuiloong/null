@@ -1,6 +1,6 @@
 # null_or_empty
 
-[![MrJay]
+https://img.shields.io/badge/-MrJay-green
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml)
 
