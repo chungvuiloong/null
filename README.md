@@ -1,5 +1,7 @@
 # null_or_empty
 
+!\[alt text\](https://img.shields.io/badge/tag-MrJay-brightgreen)
+
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml)
 
