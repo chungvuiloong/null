@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/null.svg)](https://badge.fury.io/js/null)
 
+https://badgen.net/github/release/babel/babel
+
 https://badgen.net/badge/:subject/:status/:color?icon=github
 
 
