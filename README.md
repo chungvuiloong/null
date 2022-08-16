@@ -1,6 +1,11 @@
 # null_or_empty
 
-https://img.shields.io/badge/-MrJay-green
+{
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
+}
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kalwar/null_or_empty/actions/workflows/main.yml)
 
