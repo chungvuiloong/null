@@ -4,6 +4,7 @@
 
 [![Node CI](https://github.com/jirimicvl/null/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/jirimicvl/null/actions/workflows/main.yml)
 
+[![Node CI](https://github.com/jirimicvl/null/actions/workflows/main.yml/badge.svg?branch=master&event=Test)](https://github.com/jirimicvl/null/actions/workflows/main.yml)
 
 
 A Node.js package that checks, if a given string is null or empty.
